@@ -33,7 +33,11 @@ const password = body.password;
 ```javascript
 const crypto = require('crypto-js');
 const SECRET = 'my secret password';
-const hash = crypto.HmacSHA256(cookie, SECRET);
+
+const value = 15;
+
+// make sure value is string before calculating hash
+const hash = crypto.HmacSHA256(value.toString(), SECRET).toString();
 ```
 * Bcrypt
 ```javascript
