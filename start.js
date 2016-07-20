@@ -14,6 +14,8 @@ app.get('/hello', (req, res) => {
   res.send('hello');
 });
 
+app.use('/visits', require('./lib/visitors'));
+
 app.get('/', (req, res) => {
   res.render('index');
 });
