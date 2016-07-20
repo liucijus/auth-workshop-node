@@ -17,7 +17,7 @@
 * Install [Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 * Install add on to modify cookies on your browser. Some of the options:
   * Firefox - [Cookie Manager+](https://addons.mozilla.org/en-US/firefox/addon/cookies-manager-plus/)
-  or * Chrome - [Cookies](https://chrome.google.com/webstore/detail/cookies/iphcomljdfghbkdcfndaijbokpgddeno?hl=en)
+  * Chrome - [Cookies](https://chrome.google.com/webstore/detail/cookies/iphcomljdfghbkdcfndaijbokpgddeno?hl=en)
 
 
 ## Cheats
