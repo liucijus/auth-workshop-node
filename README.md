@@ -12,7 +12,7 @@
 * **Prior experience in programming is a must**
 * Editor. Pick an editor which supports JavaScript syntax highlighting. 
   The best editor is one which you work daily. If you have hard time 
-  making decision, pick [Atom](https://atom.io). 
+  making decision, pick [Atom](https://atom.io)
 * Install [Node.js](https://nodejs.org/en/download/package-manager/)
 * Install [Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 * Install add on to modify cookies on your browser. Some of the options:
