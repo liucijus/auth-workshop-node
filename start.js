@@ -16,6 +16,8 @@ app.get('/hello', (req, res) => {
 
 app.use('/visits', require('./lib/visitors'));
 
+app.use('/users', require('./lib/users'));
+
 app.get('/', (req, res) => {
   res.render('index');
 });
